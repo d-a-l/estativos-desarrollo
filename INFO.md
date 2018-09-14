@@ -1,3 +1,6 @@
+Este documento está desactualizado! 
+TODO: actualizar!
+
 # MODELOS
 
 * **modelo "enve"**: instalado en filo (cortes) 
