@@ -105,7 +105,7 @@
      inkscape:window-height="715"
      inkscape:window-width="1366"
      inkscape:guide-bbox="true"
-     showguides="false"
+     showguides="true"
      inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-nodes="true"
@@ -113,9 +113,9 @@
      showgrid="false"
      inkscape:current-layer="layer83"
      inkscape:document-units="px"
-     inkscape:cy="-5802.0315"
-     inkscape:cx="2466.0947"
-     inkscape:zoom="0.061485599"
+     inkscape:cy="-4309.8813"
+     inkscape:cx="1052.3514"
+     inkscape:zoom="0.26543253"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -158,6 +158,10 @@
        position="5651.1339,-5842.6548"
        orientation="1,0"
        id="guide43083" />
+    <sodipodi:guide
+       position="1601.614,799.11399"
+       orientation="0,1"
+       id="guide37983" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -13354,7 +13358,7 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path12796"
-         d="m -464.09363,1504.5806 1056.13684,0"
+         d="m -464.09363,1504.5806 1021.93263,0"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <rect
